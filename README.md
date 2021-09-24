@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 <div align="center">
-  <img height="150" src="https://res.cloudinary.com/dnv-images/image/upload/v1631954966/Coffe%20Shop/coffe_copy_huh6kh.png"/>
+  <img height="150" src="/screenshots/logo.png"/>
 </div>
   <h3 align="center">Coffe Shop</h3>
   <p align="center">
@@ -38,7 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Coffee Shop is a Foods & Beverages ordering application. This apps give you (customers) some features to order your favorite foods or beverages. The customers also have some opportunity to use some promo code before directly checkout to the payment page. In payment page you can pick your payments method so it's flexible what kind of money do you have. Also the customers will be able to edit their profile such as photo, username, address, and phone number if they have to change their identity. 
+Coffee Shop is a Foods & Beverages ordering application. This apps give you (customers) some features to order your favorite foods or beverages. The customers also have some opportunity to use some promo code before directly checkout to the payment page. In payment page you can pick your payments method so it's flexible what kind of payment do you have. Also the customers will be able to edit their profile such as photo, username, address, and phone number if they have to change their identity. 
 
 
 ### Built With
@@ -88,20 +88,20 @@ NEXT_PUBLIC_ID_DELIVER_DINE_IN = [19]
 ## Screenshots
 
 <div align="center">
-    <img width="700" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277469/Coffe%20Shop/Coffe_01_fagpi4.png">   
+    <img width="700" src="/screenshots/1.png">   
 </div>
 <div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277466/Coffe%20Shop/Coffe_02_fmfg24.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277463/Coffe%20Shop/Coffe_03_eiyyud.png">
+    <img width="350" src="/screenshots/2.png">   
+    <img width="350" src="/screenshots/3.png">
 </div>
 <div align="center">
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277465/Coffe%20Shop/Coffe_04_pobn9o.png">   
-    <img width="350" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277464/Coffe%20Shop/Coffe_05_iymcrn.png">
+    <img width="350" src="/screenshots/4.png">   
+    <img width="350" src="/screenshots/5.png">
 </div>
 <div align="center">
-    <img width="232" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277467/Coffe%20Shop/Coffe_06_kqiofr.png">   
-    <img width="232" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277463/Coffe%20Shop/Coffe_07_vyhl51.png">
-    <img width="232" src="https://res.cloudinary.com/dnv-images/image/upload/v1632277464/Coffe%20Shop/Coffe_08_fnwh1d.png">
+    <img width="232" src="/screenshots/6.png">   
+    <img width="232" src="/screenshots/7.png">
+    <img width="232" src="/screenshots/8.png">
 </div>
 
 <!-- CONTRIBUTING -->
